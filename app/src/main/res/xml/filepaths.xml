@@ -1,3 +1,4 @@
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <files-path name="my_images" path="images/"/>
+    <cache-path name="shared_images_from_glide_cache" path="image_manager_disk_cache"/>
 </paths>
